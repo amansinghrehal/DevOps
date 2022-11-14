@@ -1,0 +1,9 @@
+{
+	"name": "singh-data-factory-dev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4c10bb81-39df-41c0-acc3-26314b6cf61e",
+		"tenantId": "ffa45ffa-97a7-445f-9872-fed33847e090"
+	}
+}
